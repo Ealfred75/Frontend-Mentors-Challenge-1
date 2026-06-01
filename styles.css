@@ -30,16 +30,15 @@ body{
     text-align: center;
     padding: 0 8px;
 }
-.description p{
+.description h1{
     margin: 0;
-}
-.description p:first-child{
     font-weight: 700;
     font-size: 22px;
     color: hsl(218, 44%, 22%);
     margin-bottom: 15px;
 }
-.description p:last-child{
+.description p{
+    margin: 0;
     font-weight: 400;
     font-size: 15px;
     color: hsl(216, 15%, 48%);
